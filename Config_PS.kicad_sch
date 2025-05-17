@@ -2410,16 +2410,6 @@
 		)
 		(uuid "88fb6496-f939-423e-a74a-4458754d2f43")
 	)
-	(text "${FILEPATH}"
-		(exclude_from_sim no)
-		(at 234.442 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c7d7b3cb-9d03-4e6e-a243-e82227ae7743")
-	)
 	(text "${A}"
 		(exclude_from_sim no)
 		(at 209.804 83.312 0)
