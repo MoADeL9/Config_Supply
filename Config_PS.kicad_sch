@@ -2280,6 +2280,25 @@
 		)
 		(uuid "fa701186-9ed0-496b-bb85-2989d9f9d545")
 	)
+	(text_box ""
+		(exclude_from_sim no)
+		(at 58 40 0)
+		(size 138 95)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e8261d19-2a42-43f8-be19-fb765d953a80")
+	)
 	(label "VIN_3.3"
 		(at 115.57 58.42 180)
 		(fields_autoplaced yes)
